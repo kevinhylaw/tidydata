@@ -14,6 +14,6 @@ The main idea of the script is:
 6. use aggregate to calculate the average of each variable for each subject
 7. write the data into a txt file
 
-Detailed xplanation of the script is included in the script as comment lines.
+Detailed explanation of the script is included in the script as comment lines.
 
-There is also a modified codebook in this repo
+There is also an updated codebook in this repo
