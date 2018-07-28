@@ -1,4 +1,5 @@
-There are 6 data frames contained in a list. Each data frame represents an activity. Each data frame has 30 rows, for each subject.
+In the data set, tidy.txt, there are 6 data frames contained in a list.
+Each data frame represents an activity. Each data frame has 30 rows, each for a subject.
 The data in the data frames is the average, for each activity and each subject, of each feature (variable) described below.
 
 Feature Selection 
