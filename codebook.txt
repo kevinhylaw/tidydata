@@ -1,4 +1,12 @@
-In the data set, tidy.txt, there are 6 data frames contained in a list.
+Codebook
+=================
+There are only 2 variables that are not included in the original codebook
+Activity - the activity carried out by the subject (Walking, Walking upstairs, Walking downstairs, Sitting, Standing, Laying)
+Subject - the identifier of the person carrying out the activity (People numbered 1-30)
+
+The data set
+=================
+In tidy.txt, there are 6 data frames contained in a list.
 Each data frame represents an activity. Each data frame has 30 rows, each for a subject.
 The data in the data frames is the average, for each activity and each subject, of each feature (variable) described below.
 
